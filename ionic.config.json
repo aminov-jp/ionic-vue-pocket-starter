@@ -1,0 +1,7 @@
+{
+  "name": "ions",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
